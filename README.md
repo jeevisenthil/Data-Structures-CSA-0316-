@@ -31,3 +31,14 @@ Day 3 – Singly Linked List<br />
 3.4. Print no of nodes in the given linked list<br />
 3.5. Intersect SLL<br />
 3.6. Reverse - SLL<br />
+
+Day 4
+4.1Implement DLL with following operations(Insert(Beg,Mid,End),Delete(Beg,Mid,End),Display,Search,Sort,Find Max and Min)<br />
+4.2Implement Singly CLL with following operations(Insert(Beg,Mid,End),Delete(Beg,Mid,End),Display,Search,Sort,Find Max and Min)<br />
+
+Day 5
+5.1Implement Stack using array with following operations(Push(),Pop(),Display( ),Peek( ))<br />
+5.2Implement Stack using Linked List with following operations(Push(),Pop(),Display( ),Peek( ))<br />
+5.3Consider 2 stacks, add bottom most element and top most element print the value<br />
+5.4Given a stack, delete the middle element of the stack without using any additional data structure<br />
+Middle element:- floor((size_of_stack+1)/2) (1-based indexing) from bottom of the stack<br />
