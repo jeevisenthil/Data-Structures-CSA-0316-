@@ -32,11 +32,11 @@ Day 3 – Singly Linked List<br />
 3.5. Intersect SLL<br />
 3.6. Reverse - SLL<br />
 
-Day 4
+Day 4 - Doubly and Circular Linked List<br />
 4.1Implement DLL with following operations(Insert(Beg,Mid,End),Delete(Beg,Mid,End),Display,Search,Sort,Find Max and Min)<br />
 4.2Implement Singly CLL with following operations(Insert(Beg,Mid,End),Delete(Beg,Mid,End),Display,Search,Sort,Find Max and Min)<br />
 
-Day 5
+Day 5 -Stack<br />
 5.1Implement Stack using array with following operations(Push(),Pop(),Display( ),Peek( ))<br />
 5.2Implement Stack using Linked List with following operations(Push(),Pop(),Display( ),Peek( ))<br />
 5.3Consider 2 stacks, add bottom most element and top most element print the value<br />
