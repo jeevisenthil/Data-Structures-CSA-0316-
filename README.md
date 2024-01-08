@@ -68,3 +68,17 @@ Day 9  -AVL Tree<br />
 Day 10  -Red-Black & Splay Tree<br />
 10.1. Implement a C Program for Red Black tree and perform Insertion and Deletion of Nodes<br />
 10.2. Implement a C Program for Splay tree tree and perform Insertion and Deletion of Nodes<br />
+
+
+Day 12  -Hashing<br />
+12.1. Implement a C Program to perform Hashing with all collision resolving techniques<br />
+12.2. Implement a C Program for Min Heap and Max Heap and perform Insertion  of Nodes<br />
+12.3. Implement a C Program to perform Heap sort both ascending and Descending order<br />
+<br />
+
+Day 13  -Sorting<br />
+13.1 Bubble Sort<br />
+13.2 Insertion Sort<br />
+13.3 Radix Sort<br />
+13.4 Merge Sort<br />
+13.5 Shell Sort<br />
