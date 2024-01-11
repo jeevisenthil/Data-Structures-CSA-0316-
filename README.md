@@ -84,3 +84,7 @@ Day 13  -Sorting<br />
 13.3 Radix Sort<br />
 13.4 Merge Sort<br />
 13.5 Shell Sort<br />
+
+Day 14  -Sorting<br />
+1. Implement a C Program to perform Quick Sort<br />
+2. Implement a C Program to perform Selection Sort<br />
